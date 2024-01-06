@@ -1,3 +1,9 @@
+# [Unreleased]
+
+- Update vmm-sys-util version to 0.12.x
+- Update kvm-bindings version to 0.7.x
+- Update kvm-ioctls version to 0.16.x
+
 # [v0.3.1]
 
 - Update repository to https://github.com/rust-vmm/vfio
